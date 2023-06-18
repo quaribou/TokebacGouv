@@ -1,5 +1,7 @@
 # Tokebac
 Plateforme de découvrabilité et de sociofinancement pour les artistes québécois.
+![Tokebac Logo](https://github.com/quaribou/Tokebac/blob/main/Images/Tokebac_logo.png)
+
 
 Pour lire les conditions d'utilisations, cliquez sur ce lien : 
 [Conditions d'utilisations de Tokebac](Conditions%20d'utilisations%20de%20Tokebac.md)
