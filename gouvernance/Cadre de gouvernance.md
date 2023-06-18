@@ -1,7 +1,3 @@
----
-title: Cadre de gouvernance
----
-
 # Cadre de gouvernance provisoire de Tokebac
 
 ## Version 
