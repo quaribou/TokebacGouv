@@ -26,7 +26,7 @@
   - Après 3 blocages, le compte est fermé pour 1 an.
   - Après 3 fermetures, le compte est fermé à vie.
 
-## ALGO EMOJI - XL
+### ALGO EMOJI - XL
 - Lors de la création dun contenu, on peut maintenant ajouter des tags comme "féminin", "autochtones" et "diversités".
 - Un peut maintenant modifier un ancien contenu pour y associer les mêmes tags.
 - Plutôt que d'avoir uniquement le harfang des neiges pour faire des paiements, on peut maintenant scroller le harfangs et avoir accès à tous les émoji du clavier pour faire des paiements.
@@ -44,7 +44,7 @@
 - Ce sont les utilisateurs qui décident donc à quel emoji sera attribué un contenu.
 - Sur le profil de l'artiste, on ajoute aussi le panneau de statistique qui montre combien de crédit a obtenu l'artiste par emoji.
 
-## AUDIO - XL
+### AUDIO - XL
 - Ajout d'un fichier audio lors de la création d'un contenu.
 - Max 60 minutes, format mp3 192 kbs pour débuter.
 - Pour démarrer un audio, il faut appuyer sur l'image du contenu.
@@ -55,10 +55,10 @@
   - Si l'artiste veut ou doit donner un % de ses revenus à quelqu'un (gérantes, maison de disque), il doit le faire lui-même à partir des retraits qu'il fera sur la plateforme. Tokebac ne traite pas avec les gérantes et les maisons de disques, il traite seulement avec les artistes.
 - Lorsque l'artiste téléverse un contenu audio, il atteste qu'il est proriétaire des droits et accepte d'être rénuméré selon la tarification en cours sur le plateforme Tokebac.
 
-## VIDÉO - XL
+### VIDÉO - XL
 - Même définition que pour l'audio, mais le contenu arrête si on charge un nouveau contenu et c'est 2,79 cenne de la minute.
 
-## NFT - XL
+### NFT - XL
 - Il est maintenant possible de devenir propriétaire d'un contenu en misant sur un contenu.
 - La mise de départ est de 1 crédit et double à chaque mise par la suite (2 crédits, 4, 8, 16, 32, 1.24$, 2.48$, 4.96$, 9.92$, 19.84$, etc.).
 - Voici la formule de redistribution des profits :
@@ -90,11 +90,11 @@
 - Le modèle insiste les acheteurs, qui peuvent faire du profità, à miser sur de nouvelles oeuvres. L'utilisateur qui fait des profits ne peut pas retirer l'argent, il doit le dépenser sur la plateforme. En d'autres mots, tous les profits réalisés par une surenchère profitera aux artistes de Tokebac!
 - Lorsqu'un contenu est effacé, il disparaît de la plateforme SAUF pour le dernier propriétaire. C'est une façon pour les artistes de créer des contenus uniques et exclusifs pour leurs mécènes.
 
-## Monnaie Locale - XL
+### Monnaie Locale - XL
 - Il est maintenant possible pour deux utilisateurs de Tokebac de s'échanger des jetons.
 - N'importe quel utilisateur peut, via un code QR, donner des jetons à un autre utilisateur.
 - Cette fonctionnalité est présente pour encourager l'économie circulaire des artistes. En d'autres mots, une personne qui accepte d'être payé en Tokebac prend l'engagement solonel que l'argent qu'elle reçoit ira, un jour ou l'autre, dans les poches d'un artiste. Avec cette fonction, Tokebac encourage la population à transformer son argent canadien en jeton Quaribou afin de garantir un revenu descent pour les artistes et encourager la culture.
 
-## Internationale - XL
+### Internationale - XL
 - Exporatation de la plateforme dans un autre pays.
 - On ajoute l'icône du pays avec qui on fait affaires. Si le pays n'a pas d'icône, par exemple pour la Catalogne, on ajoute un icône 
