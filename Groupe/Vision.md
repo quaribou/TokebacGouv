@@ -24,6 +24,7 @@
 NFT
 
 - Il est maintenant possible de devenir propriétaire d'un contenu en misant sur un contenu.
+- Il n'est pas possible pour un artiste de miser sur son propre contenu. 
 - La mise de départ est de 1 crédit et double à chaque mise par la suite (2 crédits, 4, 8, 16, 32, 1.24$, 2.48$, 4.96$, 9.92$, 19.84$, etc.).
 - Voici la formule de redistribution des profits :
   - 1 cenne : 1 cenne pour l'artiste.
