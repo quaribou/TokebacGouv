@@ -122,13 +122,13 @@ Pour les Artistes, ils peuvent faire une demande de paiement quand ça leur plai
 Le premier du mois, une fois les frais de serveurs payés, les retraits des artistes sont faits dans le compte Paypal de Quaribou et tout le reste (frais de serveurs en trop, le 10% en développement et les 2.00$ de frais par retrait des artistes) est transféré dans le compte en Banque de Quaribou.
 
 #### Redistribution des revenus
-Première tranche de 200$ au Groupe Technique.
-Seconde tranche de 200$ au Groupe Administratif.
-Troisième tranche de 300$ au Groupe Développement.
-Quatrième tranche de 100$ au Groupe Vision.
+Première tranche de 120$ au Groupe Technique.
+Seconde tranche de 170$ au Groupe Administratif.
+Troisième tranche de 320$ au Groupe Développement.
+Quatrième tranche de 120$ au Groupe Vision.
 Cinquième tranche de 100$ au Groupe Fondateur.
-Sixième tranche de 100$ au Groupe Artiste.
-Septième tranche de 100$ au Groupe Amélioration.
+Sixième tranche de 50$ au Groupe Artiste.
+Septième tranche de 120$ au Groupe Amélioration.
 
 Lorsque les paiements sont effectués à toutes les tranches, on retourne refaire des paiements à la première tranche, et ce, jusqu'à épuisement des fonds mensuels.
 
