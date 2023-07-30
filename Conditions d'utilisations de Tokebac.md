@@ -14,10 +14,10 @@ Tokebac est une plateforme en ligne dédiée à la promotion des artistes et à 
    - La plateforme Tokebac a été créée dans le but de réduire la dépendance des artistes musicaux québécois vis-à-vis des radios satellites américaines. Elle vise à générer de nouveaux revenus pour les artistes grâce aux pourboires.
 
 3. Tous les paiements vont aux artistes :
-   - Sur la plateforme Tokebac, tous les paiements effectués vont directement aux artistes, sans aucun intermédiaire.
-   - Chaque transaction est soumise à un frais de serveurs de 0.50 $, qui aide à maintenir le bon fonctionnement de la plateforme.
-   - Un frais de développement de 10% est prélevé pour soutenir l'évolution et l'amélioration continue de la plateforme.
-   - Les 90% restants sont redistribués aux artistes sous forme de pourboires.
+   - Sur la plateforme Tokebac, tous les paiements effectués en Q$ vont directement aux artistes, sans aucun intermédiaire.
+   - Chaque transaction en dollar canadien est soumise à un frais de transaction de 0.30 $ afin de régler les frais exigé par Paypal.
+   - Lorsqu'un paiement est fait en dollars canadiens, 15% est perçu du montant total pour aider à l'entretien et au développement de la plateforme.
+   - Les 85% restants d'un paiement sont redistribués aux artistes sous forme de pourboires données à l'aide de Q$. 
 
 ## Confidentialité et données personnelles
 
