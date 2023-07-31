@@ -16,5 +16,8 @@ Les premiers revenus seront consacrés, en ordre de priorité :
 1. Obligations fiscales et comptables (50% - Responsable Philippe Bourque)
 2. Support aux artistes (50% - Responsable Samuel Wagner)
 
-## Suivis des revenus et dépenses
-Rien pour l'instant
+## Taux horaire
+50$ de l'heure tx+inc.
+
+## Suivis des dépenses 
+Rien jusqu'à maintenant
