@@ -50,11 +50,17 @@ Les fondateurs adoptent le cadre de gouvernance et approuvent les modifications.
 
 ## Règles
 
-### Règle #1 - Tous les revenus de la plateforme vont aux artistes
-Tous les revenus de la plateforme sont transférés dans le compte Paypal de Quaribou Culture. Tous les revenus des artistes ne sont et ne seront jamais retirés du compte Paypal de Quaribou Culture, à une exception prêt : un artiste abonné à Tokebac fait une demande de retrait pour convertir ses jetons Tokebac en dollar canadien.
+### Règle #1 - Tous les revenus doivent servir à encourager les artistes 
+À chaque fois qu'une personne accepte de sociofinancer les artistes via la plateforme de paiement de Tokebac, il transforme ses dollars canadiens en Quaribou Dollar, une forme de monnaie virtuelle qui utilise les symboles Q$ comme abbréviation. Un dollar canadien équivaut à 100Q$. Chaque transaction est faite via la plateforme de paiement Paypal. Paypal exige des frais de transactions, alors ils sont réclamés et ajoutés au montant total désirés en Q$ dans la plateforme de paiement Tokebac. 
+
+Tous les revenus de la plateforme sont d'abord transférés dans le compte Paypal de Quaribou Culture. 85% revenues sont réservés à rénumérer les artistes, sans intermédiaire, par tranche de 50$ accumulé en Q$ (50$ = 5000Q$). Les revenus qui ne sont pas réclamés par les artistes restent et resteront à jamais dans le compte Paypal de Quaribou Culture. 15% des revenus sont réservés à l'amélioration de la plateforme. Ces 15% de revenus sont distribués en fonction des besoins priotaires de la plateforme pour générer de nouveaux revenus aux artistes et améliorer le fonctionnement de la platetorme. Pour connaître le détail de la distribution de ces 15%, veuillez consulter les Règles 2 à 5.  
+
+Une transaction transforme des dollars canadien en crédits Q$. La valeur du Q$ ne changera jamais, elle sera toujours équivalente à 0.01$ canadien. Tant qu'un artiste n'aura pas fait une demande de retrait, par tranche de 50$, au compte Paypal de Quaribou, les montants accumulés par les artistes resteront là. En d'autres termes, le Q$ est une monnaie virtuelle stable. 
+
+Veuille noter que le Q$ n'est pas une cryptomonnaie. Le Q$ utilise des serveurs centralisés contrôlés par la gouvernance, sous licence Apache 2.0, de Tokebac. Les transactions en Q$ ne sont donc ni enregistré ni contrôle par une chaîne de bloc ou autre mécanisme impliquant un portefeuille numérique.
 
 ### Règle #2 - La priorité des revenus vont aux serveurs
-Une fois les revenus des artistes sécurisés dans le compte Paypal de Quaribou Culture, les revenus de la plateforme doivent couvrir d'abord les frais de plateformes (serveurs).
+Une fois les revenus des artistes sécurisés dans le compte Paypal de Quaribou Culture, les revenus de la plateforme doivent couvrir d'abord les frais de fonctionnement de la plateforme (serveurs, abonnements, services payant, envoies de courriels, firebase, vercel, etc.).
 
 ### Règle #3 - Les autres revenus sont redistribués aux groupes 
 Lorsque les frais des serveurs sont payés, les revenus sont transférés dans le compte en banque de Quaribou Culture et distribués dans les différents groupes tel que décrit dans la règle #4.
@@ -107,19 +113,19 @@ Description des groupes et leurs responsabilités.
 Règles et priorités monétaires
 
 #### Revenus et dépenses
-Tous les achats faits sur la plateforme Tokebac sont transférés au fur et à mesure dans le compte Paypal. Sur chaque achat est retiré un frais de serveurs de 0.50$ et un frais de 10% pour le développement de la plateforme. Tout le reste des revenus s'en va aux artistes, et ce, sans exception. Il est interdit de toucher à ses revenus qui reviennent aux artistes à moins de faire un retrait en tant qu'artiste.
+Tous les achats faits sur la plateforme Tokebac sont transférés au fur et à mesure dans le compte Paypal de Quaribou Culture. Sur chaque achat est retiré un frais de 15% pour l'entretien et le développement de la plateforme. Tout le reste des revenus s'en va aux artistes, et ce, sans exception. Il est interdit de toucher à ses revenus qui reviennent aux artistes à moins de faire un retrait en tant qu'artiste.
 
 #### Frais de serveurs
-Le premier de chaque mois, les frais de serveurs réels sont transférés depuis compte Paypal de Quaribou vers le compte Paypal de Stratéjia qui est présentement mandataire pour entretenir les serveurs. Si le montant accumulé durant le moins est négatif par rapport aux frais réel, le montant manquant provient du 10% accumulé pour le développement de la plateforme. Si le montant est toujours négatif, Quaribou s'engage à verser le montant manquant depuis son compte en banque vers son compte Paypal. Si le montant accumulé durant le mois pour les frais de serveurs sont positifs, les revenus supplémentaires restent dans le compte Paypal de Quaribou.
+Le premier de chaque mois, les frais de serveurs réels sont transférés depuis compte Paypal de Quaribou vers le compte Paypal de Stratéjia qui est présentement mandataire pour entretenir les serveurs. Si le montant accumulé avec le 15% de fais d'entretien et de développement durant le mois est négatif par rapport aux frais réel, Quaribou Culture s'engage à verser le montant manquant depuis son compte en banque vers son compte Paypal. En aucun cas l'argent qui est réservé pour maintenant la valeut du Q$ à 1 cenne ne doit servir à payer l'entretien ou le développement de la plateforme. 
 
 #### Facturation
-À chaque premier du mois, une facture est émise à Quaribou avec la note "Payé" par Stratéjia. Si le coût des serveurs est plus élevé que le montant accumulé durant le mois, Stratéjia émet un avis à Quaribou de la différence qui manque avec un délai d'un mois pour mettre l'argent dans le compte Paypal. La différence sera chargée le mois suivants. Si les montants ne sont pas payés durant 2 mois, Stratéjia peut alors fermer les serveurs de Tokebac. La fermeture des serveurs doit se faire suivant un avis écrit, envoyé par courrier recommandé, de 30 jours suivant les 2 mois sans paiement.
+À chaque premier du mois, une facture est émise à Quaribou Culture avec la note "Payé" par Stratéjia. Si le coût des serveurs est plus élevé que le montant accumulé durant le mois, Stratéjia émet un avis à Quaribou Culture de la différence qui manque avec un délai d'un mois pour mettre l'argent dans le compte Paypal de Quaribou Culture. La différence sera chargée le mois suivant. Si les montants ne sont pas payés durant 2 mois, Stratéjia peut alors fermer les serveurs de Tokebac. La fermeture des serveurs doit se faire suivant un avis écrit, envoyé par courrier recommandé, de 30 jours suivant les 2 mois sans paiement. Bref, Quaribou Culture a trois mois au minimum pour payer les frais d'entretien de serveur avant que Stratéjia puissent fermer les serveurs.
 
 #### Paiements aux artistes
-Pour les Artistes, ils peuvent faire une demande de paiement quand ça leur plait, mais les paiements sont fait le premier du mois et doivent être par tranche de 50$. Les sommes sont retirés du compte Paypal de Quaribou et transféré dans les comptes Paypal des Artistes. Lorsque les paiements sont effectués aux Artistes, un frais de serveur de 1.00$ et un frais de développement de la plateforme de 1.00$.
+Pour les Artistes, ils peuvent faire une demande de paiement quand ça leur plait, mais les paiements sont fait le premier du mois et doivent être par tranche de 50$. Les sommes sont retirés du compte Paypal de Quaribou Culture et transféré dans les comptes Paypal des Artistes. Lorsque les paiements sont effectués aux Artistes, un frais de transaction de 0.30$ est perçue afin de payer les frais que Paypal exige à Quaribou Culture. Aucun autre frais n'est exigé aux Artistes.
 
 #### Transferts mensuels
-Le premier du mois, une fois les frais de serveurs payés, les retraits des artistes sont faits dans le compte Paypal de Quaribou et tout le reste (frais de serveurs en trop, le 10% en développement et les 2.00$ de frais par retrait des artistes) est transféré dans le compte en Banque de Quaribou.
+Le premier du mois, une fois les frais de serveurs payés, les retraits des artistes sont faits dans le compte Paypal de Quaribou Culture et tout le reste est transféré dans le compte en Banque de Quaribou afin d''être redistribué, en dépenses, aux groupes de Redistribution des revenus. En d'autres termes, ancun profit de Tokebac n'est sauvegardé afin d'être remis aux actionnaires ou à d'éventuels investisseurs, tous les revenus de Tokebac doivent être pour encourager les artistes. Il n'y aura donc jamais chez Tokebac de dividence ou autre système fiscale pour enrichir ses propriétaires. La seule façon de faire res revenus avec Tokebac, c'est d'être un artiste ou de s'engager dans un des groupes de Redistribion afin d'y travailler et d'y être rénuméré. 
 
 #### Redistribution des revenus
 Première tranche de 120$ au Groupe Technique.
