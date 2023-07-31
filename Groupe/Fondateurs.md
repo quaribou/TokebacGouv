@@ -97,4 +97,10 @@
 
 ### Internationale - XL
 - Exporatation de la plateforme dans un autre pays.
-- On ajoute l'icône du pays avec qui on fait affaires. Si le pays n'a pas d'icône, par exemple pour la Catalogne, on ajoute un icône 
+- On ajoute l'icône du pays avec qui on fait affaires. Si le pays n'a pas d'icône, par exemple pour la Catalogne, on ajoute un icône
+
+## Taux horaire
+200$ de l'heure tx+inc.
+
+## Suivis des dépenses 
+Rien jusqu'à maintenant
