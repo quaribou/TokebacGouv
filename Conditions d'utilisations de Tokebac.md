@@ -11,7 +11,7 @@ Tokebac est une plateforme en ligne dédiée à la promotion des artistes et à 
    - Les contenus sur Tokebac peuvent être visionnés à tout moment grâce à la fonctionnalité aléatoire. Il est donc fortement recommandé de créer du contenu intemporel.
 
 2. Tokebac existe pour soutenir les artistes :
-   - La plateforme Tokebac a été créée dans le but de réduire la dépendance des artistes musicaux québécois vis-à-vis des radios satellites américaines. Elle vise à générer de nouveaux revenus pour les artistes grâce aux pourboires.
+   - La plateforme Tokebac a été créée dans le but de réduire la dépendance des artistes musicaux québécois vis-à-vis des radios satellites américaines. Elle vise à générer de nouveaux revenus pour les artistes grâce au sociofinancement.
 
 3. Tous les paiements vont aux artistes :
    - Sur la plateforme Tokebac, tous les paiements effectués en Q$ vont directement aux artistes, sans aucun intermédiaire.
