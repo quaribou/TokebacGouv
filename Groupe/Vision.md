@@ -57,3 +57,9 @@ NFT
   - 16777216 cennes (167772.16$) : 12582912 cennes (125829.12$) pour le vingt-quatrième acheteur, 4194304 cennes (41943.04$) pour l'artiste (8388609 cennes, ou 83886.09$, au total pour l'artiste).
 - Le modèle insiste les acheteurs, qui peuvent faire du profità, à miser sur de nouvelles oeuvres. L'utilisateur qui fait des profits ne peut pas retirer l'argent, il doit le dépenser sur la plateforme. En d'autres mots, tous les profits réalisés par une surenchère profitera aux artistes de Tokebac!
 - Lorsqu'un contenu est effacé, il disparaît de la plateforme SAUF pour le dernier propriétaire. C'est une façon pour les artistes de créer des contenus uniques et exclusifs pour leurs mécènes.
+
+## Taux horaire
+100$ de l'heure tx+inc.
+
+## Suivis des dépenses 
+Rien jusqu'à maintenant
