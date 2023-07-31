@@ -22,3 +22,6 @@ Chaque artiste à un vote, mais peut proposer autant de façon dont il souhaite 
 - Remettre la bourse à un festival de musique selon un vote des artistes.
 - Remettre la bourse à un organisme aidant les sans abri.
 - Remettre la bourse au premier passant qui traversera la Rue Saint-Vallier en face du Pantoum le 12 février 2024 (ouai, ça peut être cave de même, aux artistes de voir ce qu'ils veulent faire avec leur bourse!)
+
+## Suivis des dépenses 
+Rien jusqu'à maintenant
