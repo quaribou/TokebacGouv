@@ -44,14 +44,12 @@ Tokebac est une plateforme en ligne dédiée à la promotion des artistes et à 
 ## Suppression de contenu
 
 1. Suppression des contenus :
-   - Un artiste a la possibilité de supprimer son propre contenu à tout moment.
-   - Si un artiste supprime un contenu détenu par un autre propriétaire que Tokebac, ce dernier pourra toujours accéder de manière exclusive à ce contenu.
+   - Un artiste a la possibilité de supprimer son propre contenu à tout moment. Il faut en faire la demande à un membre du groupe Administrateur pour le faire. 
+   - Si un artiste supprime un contenu détenu par un autre propriétaire que Tokebac, ce dernier pourra toujours accéder de manière exclusive à ce contenu. Pour le moment, Tokebac est propriétaire de tous les contenus de la plateforme. 
 
 ## Durée de vie du contenu
 
 1. Contenu publié à jamais :
-   - Tokebac encourage les artistes à réfléchir avant de publier du contenu, car contrairement à d'autres plateformes sociales, le contenu déposé sur Tokebac est considéré comme déposé à jamais.
+   - Tokebac encourage les artistes à réfléchir avant de publier du contenu, car contrairement à d'autres plateformes sociales, le contenu déposé sur Tokebac est considéré intemporel.
 
 ---
-
-Veuillez noter que ce modèle de conditions d'utilisation doit être adapté en fonction des spécificités de votre plateforme.
