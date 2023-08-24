@@ -30,10 +30,13 @@ Rien jusqu'à maintenant.
 
 ## Dette
 ### 24 août 2023
-Philippe Bourque a passé 40 heures, soit 2000$, pour la mise en place des outils nécessaires à l'administration du projet Tokebac : 
-- Github de Quaribou Culture
-- Paypal de Quaribou Culture
-- Google Account de Quaribou Culture
-- Techsoup de Quaribou Culture
-- Roundup de @tokebac.com
-- Hébergement et nom de domaine de Tokebac.com
+- Philippe Bourque a passé 40 heures, soit 2000$, pour la mise en place des outils nécessaires à l'administration du projet Tokebac : 
+  - Github de Quaribou Culture
+  - Paypal de Quaribou Culture
+  - Google Account de Quaribou Culture
+  - Techsoup de Quaribou Culture
+  - Roundup de @tokebac.com
+  - Hébergement et nom de domaine de Tokebac.com
+  - Présentation Keynote de Tokebac Version 1.0
+  - Réflexion sur la mise en marché de la plateforme avec Samuel Wagner.
+- Samuel Wagner à passé 8 heures, soit 400$, pour la réflexion sur la mise en marché de la plateforme. 
