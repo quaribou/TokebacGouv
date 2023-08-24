@@ -16,4 +16,7 @@ Pour l'instant, Philippe Bourque est le seul membre, mais tous les profits de ce
 115$ de l'heure tx+inc.
 
 ## Suivis des dépenses 
-Rien jusqu'à maintenant
+Rien jusqu'à maintenant.
+
+# Dette
+Aucune.
