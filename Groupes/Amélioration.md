@@ -26,5 +26,5 @@ Rien jusqu'à maintenant
 
 ## Dette
 ### 24 août 2023
-#### Philippe Bourque - 10 heures, 500$, test de la plateforme PMV
-#### Samuel Wagner - 2 heures, 100$, test de la plateforme PMV
+- Philippe Bourque - 10 heures, 500$, test de la plateforme PMV
+- Samuel Wagner - 2 heures, 100$, test de la plateforme PMV
