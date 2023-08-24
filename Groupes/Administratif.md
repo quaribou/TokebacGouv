@@ -20,4 +20,14 @@ Les premiers revenus seront consacrés, en ordre de priorité :
 50$ de l'heure tx+inc.
 
 ## Suivis des dépenses 
-Rien jusqu'à maintenant
+Rien jusqu'à maintenant.
+
+## Dette
+### 24 août 2023
+Philippe Bourque a passé 40 heures, soit 2000$, pour la mise en place des outils nécessaires à l'administration du projet Tokebac : 
+- Github de Quaribou Culture
+- Paypal de Quaribou Culture
+- Google Account de Quaribou Culture
+- Techsoup de Quaribou Culture
+- Roundup de @tokebac.com
+- Hébergement et nom de domaine de Tokebac.com
