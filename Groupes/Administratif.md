@@ -6,6 +6,12 @@
 
 ## Rôles et responsabilités
 - Responsable de l'administration de la plateforme (comptable, légale, fiscale, service à la clientèle, support aux artistes, ventes, marketing).
+- Responable de la mise en marché de la plateforme
+  - Rencontrer les maisons de disques de Québec, de Montréal, du Phoque OFF, du FEQ, ROSEQ, etc...
+- Responsable de la représentation de la plateforme
+  - Présenter la plateforme au GAMIQ, à la Ville de Québec, au Pantoum, etc...
+- Responable du financement de la plateforme
+  - Subventions, commandites, mécénats, etc...
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
 
 ## Gouvernance 
