@@ -2,9 +2,10 @@
 
 ## Version 
 
-| Version | Date de publication | Changements |
-|---------|---------------------|-------------|
+| Version | Date de publication | Changements      |
+|---------|---------------------|------------------|
 | 1.0     | 18 juin 2023        | Version initiale |
+| 1.1     | 5 septembre 2023    | Groupe SAC + Montants subventions |
 
 
 # Table des matières
@@ -23,7 +24,7 @@
        4. [Groupe Vision](#groupe-vision)
        5. [Groupe Fondateur](#groupe-fondateur)
        6. [Groupe Artiste](#groupe-artiste)
-       7. [Groupe Amélioration](#groupe-amélioration)
+       7. [Groupe SAC](#groupe-sac)
    5. [Règle #5 - Les priorités monétaires des groupes doit être respectée](#règle-5---les-priorités-monétaires-des-groupes-doit-être-respectée)
        1. [Revenus et dépenses](#revenus-et-dépenses)
        2. [Frais de serveurs](#frais-de-serveurs)
@@ -76,7 +77,7 @@ Description des groupes et leurs responsabilités.
 #### Groupe administratif
 - Responsable de l'administration de la plateforme (comptable, légale, fiscale, service à la clientèle, support aux artistes, ventes, marketing).
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
-- Membres actuels: Philippe Bourque et Samuel Wagner à la hauteur de 50% chacun.
+- Membres actuels: Philippe Bourque.
 
 #### Groupe Développement
 - Responsable de mettre en place et réaliser les nouvelles Fonctionnalités de la plateforme.
@@ -90,7 +91,7 @@ Description des groupes et leurs responsabilités.
 - Rédige des épics, rédige et approuve les Fonctionnalités.
 - Le groupe décide de la priorité des Épics qu'il veut réaliser.
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
-- Membres actuels: Philippe Bourque et Samuel Wagner à la hauteur de 50% chacun.
+- Membres actuels: Philippe Bourque.
 
 #### Groupe Fondateur
 - Rédige et approuve les Épics.
@@ -105,8 +106,8 @@ Description des groupes et leurs responsabilités.
 - Les fonds recueillis par ce groupe sont investis dans un fond d'aide aux artistes et offre des Bourse annuelles Tokebac.
 - Tous les membres artistes inscrits sur la plateforme Tokebac et qui ont un compte Github sont automatiquement ajouté à ce groupe.
 
-#### Groupe Amélioration
-- Responsable de l'amélioration continue et de la représentation de Tokebac.
+#### Groupe SAC
+- Responsable du service aux clients Tokebac, soit les Artistes et les utilisatrices de Tokebac.
 - Membres actuels: Philippe Bourque et Samuel Wagner à la hauteur de 50% chacun.
 
 ### Règle #5 - Les priorités monétaires des groupes doit être respectée
@@ -134,7 +135,16 @@ Troisième tranche de 320$ au Groupe Développement.
 Quatrième tranche de 120$ au Groupe Vision.
 Cinquième tranche de 100$ au Groupe Fondateur.
 Sixième tranche de 50$ au Groupe Artiste.
-Septième tranche de 120$ au Groupe Amélioration.
+Septième tranche de 120$ au Groupe SAC.
+
+#### Redistribution des subventions
+Première tranche de 50$ au Groupe Technique.
+Seconde tranche de 100$ au Groupe Administratif.
+Troisième tranche de 600$ au Groupe Développement.
+Quatrième tranche de 50$ au Groupe Vision.
+Cinquième tranche de 50$ au Groupe Fondateur.
+Sixième tranche de 30$ au Groupe Artiste.
+Septième tranche de 100$ au Groupe SAC.
 
 Lorsque les paiements sont effectués à toutes les tranches, on retourne refaire des paiements à la première tranche, et ce, jusqu'à épuisement des fonds mensuels.
 
