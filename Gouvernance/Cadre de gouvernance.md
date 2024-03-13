@@ -69,46 +69,44 @@ Lorsque les frais des serveurs sont payés, les revenus sont transférés dans l
 ### Règle #4 - Les rôles et responsabilités des groupes doivent être respectés
 Description des groupes et leurs responsabilités.
 
-#### Groupe technique
+#### Groupe Technique
 - Responsable de l'entretien et de la mise à jour des serveurs (monitoring, surveillance, sécurité).
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
 - Membre actuel: Philippe Bourque.
 
-#### Groupe administratif
-- Responsable de l'administration de la plateforme (comptable, légale, fiscale, service à la clientèle, support aux artistes, ventes, marketing).
+#### Groupe Administratif
+- Responsable de l'administration de la plateforme (comptable, légale, fiscale, promotion, mise en marché ventes, marketing).
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
-- Membres actuels: Philippe Bourque.
+- Membres actuels: Philippe Bourque et Samuel Wagner
 
 #### Groupe Développement
 - Responsable de mettre en place et réaliser les nouvelles Fonctionnalités de la plateforme.
 - Rédige des Fonctionnalités, rédige et approuve les Histoires.
 - Le groupe décide de la priorité des fonctionnalités qu'il veut réaliser.
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
-- Membre actuel: Philippe Bourque.
+- Membre actuel: Philippe Bourque
 
 #### Groupe Vision
 - Responsable de mettre en place et réaliser les nouvelles Épics de la plateforme.
 - Rédige des épics, rédige et approuve les Fonctionnalités.
 - Le groupe décide de la priorité des Épics qu'il veut réaliser.
 - Le groupe décide de sa propre gouvernance, tant qu'il reste dans son mandat.
-- Membres actuels: Philippe Bourque.
+- Membres actuels: Philippe Bourque et Samuel Wagner
 
 #### Groupe Fondateur
 - Rédige et approuve les Épics.
 - Le groupe approuve les changements de structure de gouvernance.
 - Le groupe approuve les changements des règles et priorités monétaires.
-- Membre actuel: Philippe Bourque.
+- Membre actuel: Philippe Bourque
 
 #### Groupe Artiste
 - Représente les artistes de Tokebac.
-- Responsables de déterminer comment sera dépensé la bourse Tokebac.
-- Les membres de ce groupe sont bénévoles et ont un vote chaque.
-- Les fonds recueillis par ce groupe sont investis dans un fond d'aide aux artistes et offre des Bourse annuelles Tokebac.
-- Tous les membres artistes inscrits sur la plateforme Tokebac et qui ont un compte Github sont automatiquement ajouté à ce groupe.
+- Les fonds recueillis par ce groupe sont investis dans un fond pour permettre aux nouveaux Artistes sur la plateforme d'obtenir un montant lors de leur inscription. 
+- Tous les membres artistes inscrits sur la plateforme Tokebac et qui ont un compte Github sont automatiquement ajoutés à ce groupe.
 
-#### Groupe SAC
-- Responsable du service aux clients Tokebac, soit les Artistes et les utilisatrices de Tokebac.
-- Membres actuels: Philippe Bourque et Samuel Wagner à la hauteur de 50% chacun.
+#### Groupe SAC (Service Après Vente)
+- Responsable du service après vente de Tokebac, soit auprès des Artistes et des utilisatrices de Tokebac.
+- Membres actuels: Philippe Bourque et Samuel Wagner 
 
 ### Règle #5 - Les priorités monétaires des groupes doit être respectée
 Règles et priorités monétaires
@@ -117,34 +115,34 @@ Règles et priorités monétaires
 Tous les achats faits sur la plateforme Tokebac sont transférés au fur et à mesure dans le compte Paypal de Quaribou Culture. Sur chaque achat est retiré un frais de 15% pour l'entretien et le développement de la plateforme. Tout le reste des revenus s'en va aux artistes, et ce, sans exception. Il est interdit de toucher à ses revenus qui reviennent aux artistes à moins de faire un retrait en tant qu'artiste.
 
 #### Frais de serveurs
-Le premier de chaque mois, les frais de serveurs réels sont transférés depuis compte Paypal de Quaribou vers le compte Paypal de Stratéjia qui est présentement mandataire pour entretenir les serveurs. Si le montant accumulé avec le 15% de fais d'entretien et de développement durant le mois est négatif par rapport aux frais réel, Quaribou Culture s'engage à verser le montant manquant depuis son compte en banque vers son compte Paypal. En aucun cas l'argent qui est réservé pour maintenant la valeut du Q$ à 1 cenne ne doit servir à payer l'entretien ou le développement de la plateforme. 
+Le premier de chaque mois, les frais de serveurs réels sont transférés depuis le compte Paypal de Quaribou Culture vers le compte Desjardins de Quaribou Culture. Si le montant accumulé avec le 15% de fais d'entretien et de développement durant le mois est négatif par rapport aux frais réel, Quaribou Culture s'engage à verser le montant manquant depuis sa réserve dans son compte en banque. En aucun cas l'argent qui est réservé pour maintenir la valeur du T$ à 1 cenne canadienne ne doit servir à payer l'entretien ou le développement de la plateforme. 
 
 #### Facturation
-À chaque premier du mois, une facture est émise à Quaribou Culture avec la note "Payé" par Stratéjia. Si le coût des serveurs est plus élevé que le montant accumulé durant le mois, Stratéjia émet un avis à Quaribou Culture de la différence qui manque avec un délai d'un mois pour mettre l'argent dans le compte Paypal de Quaribou Culture. La différence sera chargée le mois suivant. Si les montants ne sont pas payés durant 2 mois, Stratéjia peut alors fermer les serveurs de Tokebac. La fermeture des serveurs doit se faire suivant un avis écrit, envoyé par courrier recommandé, de 30 jours suivant les 2 mois sans paiement. Bref, Quaribou Culture a trois mois au minimum pour payer les frais d'entretien de serveur avant que Stratéjia puissent fermer les serveurs.
+À chaque premier du mois, une facture est sauvegardé par Quaribou Culture avec la note "Payé". Si le coût des serveurs est plus élevé que le montant accumulé durant le mois, Quaribou Culture émet un avis pour obtenir remboursement advenant des mois plus lucratif. La différence sera chargée le mois suivant. Si les montants ne sont pas payés durant plusieurs mois et que la réserve de Quaribou Culture venait qu'à s'épuiser, Quaribou Culture pourra alors fermer les serveurs de Tokebac. La fermeture des serveurs doit se faire suivant un avis écrit, envoyé par courrier recommandé, de 30 jours avant l'épuisement de la réserve. 
 
 #### Paiements aux artistes
-Pour les Artistes, ils peuvent faire une demande de paiement quand ça leur plait, mais les paiements sont fait le premier du mois et doivent être par tranche de 50$. Les sommes sont retirés du compte Paypal de Quaribou Culture et transféré dans les comptes Paypal des Artistes. Lorsque les paiements sont effectués aux Artistes, un frais de transaction de 0.30$ est perçue afin de payer les frais que Paypal exige à Quaribou Culture. Aucun autre frais n'est exigé aux Artistes.
+Pour les Artistes, ils peuvent faire une demande de paiement quand ça leur plait, mais les paiements sont fait instantannément. Les sommes sont retirés du compte Paypal de Quaribou Culture et transféré dans les comptes Paypal des Artistes. Lorsque les paiements sont effectués aux Artistes, un frais de transaction est perçue afin de payer les frais que Paypal exige à Quaribou Culture. Aucun autre frais n'est exigé aux Artistes. Une facture est émise le premier de chaque mois lorsqu'un Artiste fait un retrait. Une seule facture sera émise par mois, peu importe le nombre de retraits de l'Artiste. L'Artiste est dans l'obliation de rapporter les revenus de Tokebac aux instances fiscales nationales, comme prévu par la loi. 
 
 #### Transferts mensuels
-Le premier du mois, une fois les frais de serveurs payés, les retraits des artistes sont faits dans le compte Paypal de Quaribou Culture et tout le reste est transféré dans le compte en Banque de Quaribou afin d''être redistribué, en dépenses, aux groupes de Redistribution des revenus. En d'autres termes, ancun profit de Tokebac n'est sauvegardé afin d'être remis aux actionnaires ou à d'éventuels investisseurs, tous les revenus de Tokebac doivent être pour encourager les artistes. Il n'y aura donc jamais chez Tokebac de dividence ou autre système fiscale pour enrichir ses propriétaires. La seule façon de faire res revenus avec Tokebac, c'est d'être un artiste ou de s'engager dans un des groupes de Redistribion afin d'y travailler et d'y être rénuméré. 
+Le premier du mois, tous les montants perçue dans le compte Paypal sont transférés dans la Bourse Quaribou Culture, un compte d'épargne qui contient la Réserve des Artistes. 15% de ce montant est transféré dans le compte de dépenses. Une fois les frais de serveurs payés, chaque Groupe se voit attribuer une enveloppe supplémentaire dans le Budget Quaribou en fonction des entrées d'argent. Ancun profit de Tokebac n'est sauvegardé afin d'être remis aux actionnaires ou à d'éventuels investisseurs ; tous les revenus de Tokebac doivent être pour encourager les artistes. Il n'y aura donc jamais chez Tokebac de dividence ou autre système fiscale pour enrichir ses propriétaires. La seule façon de faire res revenus avec Tokebac, c'est d'être un artiste ou de s'engager dans un des Groupes afin d'y travailler et d'y être rénuméré. 
 
 #### Redistribution des revenus
-Première tranche de 120$ au Groupe Technique.
-Seconde tranche de 170$ au Groupe Administratif.
-Troisième tranche de 320$ au Groupe Développement.
-Quatrième tranche de 120$ au Groupe Vision.
-Cinquième tranche de 100$ au Groupe Fondateur.
-Sixième tranche de 50$ au Groupe Artiste.
-Septième tranche de 120$ au Groupe SAC.
+- Première tranche de 120$ au Groupe Technique.
+- Seconde tranche de 170$ au Groupe Administratif.
+- Troisième tranche de 320$ au Groupe Développement.
+- Quatrième tranche de 120$ au Groupe Vision.
+- Cinquième tranche de 100$ au Groupe Fondateur.
+- Sixième tranche de 50$ au Groupe Artiste.
+- Septième tranche de 120$ au Groupe SAC.
 
 #### Redistribution des subventions
-Première tranche de 50$ au Groupe Technique.
-Seconde tranche de 100$ au Groupe Administratif.
-Troisième tranche de 600$ au Groupe Développement.
-Quatrième tranche de 50$ au Groupe Vision.
-Cinquième tranche de 50$ au Groupe Fondateur.
-Sixième tranche de 30$ au Groupe Artiste.
-Septième tranche de 100$ au Groupe SAC.
+- Première tranche de 50$ au Groupe Technique.
+- Seconde tranche de 100$ au Groupe Administratif.
+- Troisième tranche de 600$ au Groupe Développement.
+- Quatrième tranche de 50$ au Groupe Vision.
+- Cinquième tranche de 50$ au Groupe Fondateur.
+- Sixième tranche de 50$ au Groupe Artiste.
+- Septième tranche de 100$ au Groupe SAC.
 
 Lorsque les paiements sont effectués à toutes les tranches, on retourne refaire des paiements à la première tranche, et ce, jusqu'à épuisement des fonds mensuels.
 
