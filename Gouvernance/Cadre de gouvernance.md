@@ -44,10 +44,7 @@ La plateforme Tokebac est conçue pour être une communauté d'artistes en ligne
 
 ## Mission
 
-Les fondateurs adoptent le cadre de gouvernance et approuvent les modifications.
-
-## Fondateurs actuels 
-- Philippe Bourque 
+Tokebac aspire à redonner aux Artistes la place centrale qu'elles méritent dans la société en leur permettant de bénéficier directement du soutien de leur communauté.
 
 ## Règles
 
