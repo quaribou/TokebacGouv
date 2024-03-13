@@ -1,5 +1,5 @@
 # Tokebac
-Plateforme de découvrabilité et de sociofinancement pour les artistes québécois.
+Plateforme de découvrabilité et de nouveaux revenus pour les artistes.
 ![Tokebac Logo](https://github.com/quaribou/Tokebac/blob/main/Images/Tokebac_logo.png)
 
 
