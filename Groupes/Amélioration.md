@@ -1,8 +1,9 @@
-#Amélioration 
+#SAC 
 
 ## Membres 
-- 50% Philippe Bourque 
-- 50% Samuel Wagner 
+- Philippe Bourque 
+- Samuel Wagner 
+- Rachel Gamache 
 
 ## Rôles et responsabilités 
 - Responsable de l'amélioration continue et de la représentation de Tokebac.
@@ -17,14 +18,3 @@ Le groupe utilise le concensus. Pour faire une modification aux règles de gouve
 
 ## Plan d'action
 1. Tester la plateforme et relever les bogues au groupe Technique et Développement.
-
-## Taux horaire
-50$ de l'heure tx+inc.
-
-## Suivis des dépenses 
-Rien jusqu'à maintenant
-
-## Dette
-### 24 août 2023
-- Philippe Bourque - 10 heures, 500$, test de la plateforme PMV
-- Samuel Wagner - 2 heures, 100$, test de la plateforme PMV
