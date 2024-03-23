@@ -1,8 +1,8 @@
 #Vision 
 
 ## Membres 
-- 50% Philippe Bourque 
-- 50% Samuel Wagner 
+- Philippe Bourque 
+- Samuel Wagner 
 
 ## Rôle et responsabilités 
 - Responsable de mettre en place et réaliser les nouvelles Épics de la plateforme.
