@@ -1,8 +1,8 @@
 #Développement 
 
 ## Membres 
-Philippe Bourque 
-Pascal Lalancette
+- Philippe Bourque 
+- Pascal Lalancette
 
 ## Rôle et responsabilités 
 - Responsable de mettre en place et réaliser les nouvelles Fonctionnalités de la plateforme.
