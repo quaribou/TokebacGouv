@@ -10,12 +10,3 @@ Philippe Bourque
 
 ## Gouvernance 
 - Pour toute demande de modification dans la structure de gouvernance ou règles monétaires, veuillez vous adresser à phil@quaribou.net.
-
-## Taux horaire
-200$ de l'heure tx+inc.
-
-## Suivis des dépenses 
-Rien jusqu'à maintenant.
-
-## Dette
-Aucune. 
