@@ -15,6 +15,7 @@
 Tous les frais accumulé par ce groupe doivent être remis une fois par année à des artistes via la _Bourse Tokebac_.
 Ce sont les artistes, via des suggestions, qui votent pour décider de quelle façon sera distribué la bourse anuellement.
 Chaque artiste à un vote, mais peut proposer autant de façon dont il souhaite de la dépenser.
+
 ### Quelques exemples 
 - Remettre toute la bourse à un seul artiste aléatoirement parmis les artistes de Tokebac.
 - Remettre toute la bourse à l'artiste qui aura reçu le plus de vote parmis les artistes.
@@ -23,4 +24,7 @@ Chaque artiste à un vote, mais peut proposer autant de façon dont il souhaite 
 - Remettre la bourse à un organisme aidant les sans abri.
 - Remettre la bourse au premier passant qui traversera la Rue Saint-Vallier en face du Pantoum le 12 février 2024 (ouai, ça peut être cave de même, aux artistes de voir ce qu'ils veulent faire avec leur bourse!)
 
+### Décision pour 2024
+- Priorité 1 : Remettre l'ensemble de la bourse pour permettre aux nouveaux artistes inscrits sur la plateforme d'obtenir 10$.
+- Priotité 2 : Remettre l'ensemble de la bourse pour permettre aux nouveaux abonnés inscrits sur la plateforme d'obtenir 1$.
 
