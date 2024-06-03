@@ -1,6 +1,6 @@
 # Tokebac
 Plateforme de découvrabilité et de nouveaux revenus pour les artistes.
-![Tokebac Logo](https://github.com/quaribou/Tokebac/blob/main/Images/Tokebac_logo.png)
+![Tokebac Logo](https://github.com/quaribou/TokebacGouv/blob/main/Images/Tokebac_logo.png)
 
 
 Pour lire les conditions d'utilisations, cliquez sur ce lien : 
